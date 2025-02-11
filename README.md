@@ -5,11 +5,11 @@ This repository contains a collection of **basic Golang interview questions** or
 ---
 
 ## Table of Contents
-1. [Golang Basics](#golang-basics)
-2. [Strings & Data Structures](#strings--data-structures)
-3. [Functions & Error Handling](#functions--error-handling)
-4. [Structs & Interfaces](#structs--interfaces)
-5. [Pointers & Memory Management](#pointers--memory-management)
+1. [Golang Basics](golang-basics)
+2. [Strings & Data Structures](strings-data-structures)
+3. [Functions & Error Handling](functions-error-handling)
+4. [Structs & Interfaces](structs-interfaces)
+5. [Pointers & Memory Management](pointers-memory-management)
 
 ---
 
