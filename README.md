@@ -103,22 +103,6 @@ Covers pointers, memory allocation, and garbage collection in Go.
 
 ---
 
-## Folder Structure
-golang-interview-questions/
-├── README.md # Main README file
-├── golang-basics/ # Folder for Golang Basics
-│ └── README.md # README for Golang Basics
-├── strings-data-structures/ # Folder for Strings & Data Structures
-│ └── README.md # README for Strings & Data Structures
-├── functions-error-handling/ # Folder for Functions & Error Handling
-│ └── README.md # README for Functions & Error Handling
-├── structs-interfaces/ # Folder for Structs & Interfaces
-│ └── README.md # README for Structs & Interfaces
-└── pointers-memory-management/ # Folder for Pointers & Memory Management
-└── README.md # README for Pointers & Memory Management
-
----
-
 ## How to Use
 1. Clone the repository:
 ```bash
