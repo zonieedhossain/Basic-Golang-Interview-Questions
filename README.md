@@ -1,4 +1,4 @@
-# 📌 Basic Golang Interview Questions (1-50)
+# Basic Golang Interview Questions (1-50)
 
 This repository contains a collection of **basic Golang interview questions** organized into categories. Each topic has its own `README.md` file with simple explanations and real-life examples.
 
